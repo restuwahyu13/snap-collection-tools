@@ -1,6 +1,6 @@
 # Snap Collection Tools
 
-Repo ini adalah kumpulan tools yang saua buat, untuk membantu anda semua ketika anda melakukan integrasi dengan [API Services  BI SNAP](https://apidevportal.bi.go.id/snap/api-services).
+Repo ini adalah kumpulan tools yang saya buat, untuk membantu anda semua ketika anda melakukan integrasi dengan [API Services  BI SNAP](https://apidevportal.bi.go.id/snap/api-services).
 
 - **Snap Code** Digunakan untuk mendefinisikan setiap status code, berdasarkan service - service mana saja yang akan digunakan.
 - **Snap Credentials** Digunakan untukk memvalidasi privateKey atau publicKey, yang diberikan oleh client saat melakukan generate `signature-auth` / `signature-service` atau ketika melakukan verifikasi signature yang di cocokan dari environment.
